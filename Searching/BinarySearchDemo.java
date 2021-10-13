@@ -4,10 +4,10 @@ public class BinarySearchDemo {
 
     public static void main(String[] args) {
         int arr[] = {2,3,4,77,124,133,142, 222, 423};
-        System.out.println(binaraySearch(arr, 131));
+        System.out.println(binarySearch(arr, 131));
     }
 
-    public static int binaraySearch(int arr[], int num){
+    public static int binarySearch(int arr[], int num){
         int low = 0;
         int high = arr.length-1;
         int mid   = low+ (high-low)/2;

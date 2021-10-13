@@ -9,7 +9,7 @@ This repository consists of recognized Data Structure implemenetations in Java.
 - [ ] Space Complexity
 - [ ] Searching Algorithms<br>
     - [ ] Linear Search
-    - [ ] Binary Search<br>
+    - [x] Binary Search<br>
  - [ ] Sorting Algorithm
     - [ ] Bubble Sort
     - [ ] Selection Sort
@@ -21,9 +21,9 @@ This repository consists of recognized Data Structure implemenetations in Java.
 - [ ] Queue
 - [ ] Linked List
 - [ ] Tree
-    - [ ] Binary Tree
+    - [x] Binary Tree
     - [ ] Segment Tree
-    - [ ] Binary Search Tree ( BST )
+    - [ ] Binary Search Tree ( BinarySearchTree )
 - [ ] Heap
 - [ ] Heap Sort
 - [ ] Priority Queue
